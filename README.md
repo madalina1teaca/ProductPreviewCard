@@ -4,6 +4,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ## Overview
 
+
 ### The challenge
 
 Users should be able to:
@@ -11,11 +12,14 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover and focus states for interactive elements
 
+### Screenshot
+
+![screenshot of my solution](screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/madalina1teaca/ProductPreviewCard
+- Live Site URL: https://monumental-empanada-75906b.netlify.app/
 
 ## My process
 
